@@ -4,7 +4,7 @@ arr = [["test", "hello", "world"],["example", "mem"]]
 
 # answer 
 
-arr[2][1]
+# arr[2][1]
 
 # or 
 
